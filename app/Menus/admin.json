@@ -6,7 +6,7 @@
     "icon": "<i class=\"nav-icon fa-solid fa-house\"></i>",
     "class": "main-menu-accueil"
   },
-  "produits": {
+  "users": {
     "title": "Options",
     "url": "/user",
     "perm": "none",
